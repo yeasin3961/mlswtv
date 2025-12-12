@@ -2388,7 +2388,7 @@ body.light-mode .episode-item {
                     All available links (1080p, 720p, Stream, Direct Dawnload, Telegram File etc.) are organized on the next page for your convenience 🔗👇.
                 </p>
                 <a href="{{ url_for('wait_page', target=quote(url_for('download_hub', movie_id=movie._id))) }}" class="hub-proceed-button">
-                    <span>🍿 Proceed to Movie Link 🍿</span>
+                    <span>🍿 Download & Watch Movies Link 🍿</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
@@ -2405,7 +2405,7 @@ body.light-mode .episode-item {
                     All available seasons and episodes (1080p, 720p, Stream, Direct Dawnload, Telegram File etc.) are organized on the next page. Click below to see all links 🔗👇.
                 </p>
                 <a href="{{ url_for('wait_page', target=quote(url_for('series_hub', series_id=movie._id))) }}" class="hub-proceed-button">
-                    <span>🍿 Proceed to Series Link 🍿</span>
+                    <span>🍿 Download & Watch Movies Link 🍿</span>
                     <i class="fas fa-arrow-right"></i>
                 </a>
             </div>
@@ -2679,7 +2679,7 @@ wait_step1_html = """
 
     <script>
         (function() {
-            let timeLeft = 10;
+            let timeLeft = 5;
             const countdownElement = document.getElementById('countdown');
             const timerTextElement = document.getElementById('timer-text');
             const continueBtn1 = document.getElementById('continue-btn-1');
@@ -2792,7 +2792,7 @@ wait_step2_html = """
 
     <script>
         (function() {
-            let timeLeft = 7;
+            let timeLeft = 5;
             const countdownElement = document.getElementById('countdown');
             const timerTextElement = document.getElementById('timer-text');
             const continueBtn1 = document.getElementById('continue-btn-1');
