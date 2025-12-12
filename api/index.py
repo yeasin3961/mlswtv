@@ -1305,7 +1305,7 @@ body.light-mode .main-footer {
         <div class="footer-column community-section">
             <h4 class="footer-column-title">Join Our Community</h4>
             <div class="telegram-buttons-container">
-                <a href="https://t.me/+44eeWi-YTL41MTY1" target="_blank" class="telegram-button notification">
+                <a href="https://t.me/mlswtv_movies" target="_blank" class="telegram-button notification">
                     <i class="fas fa-bell"></i>
                     <span><strong>New Content Alerts</strong><small>Get notified for every new upload</small></span>
                 </a>
@@ -2499,7 +2499,7 @@ body.light-mode .episode-item {
         <div class="footer-column community-section">
             <h4 class="footer-column-title">Join Our Community</h4>
             <div class="telegram-buttons-container">
-                <a href="https://t.me/+44eeWi-YTL41MTY1" target="_blank" class="telegram-button notification">
+                <a href="https://t.me/mlswtv_movies" target="_blank" class="telegram-button notification">
                     <i class="fas fa-bell"></i>
                     <span><strong>New Content Alerts</strong><small>Get notified for every new upload</small></span>
                 </a>
@@ -3596,7 +3596,7 @@ download_hub_html = """
         <div class="footer-column community-section">
             <h4 class="footer-column-title">Join Our Community</h4>
             <div class="telegram-buttons-container">
-                <a href="https://t.me/+44eeWi-YTL41MTY1" target="_blank" class="telegram-button notification">
+                <a href="https://t.me/mlswtv_movies" target="_blank" class="telegram-button notification">
                     <i class="fas fa-bell"></i>
                     <span><strong>New Content Alerts</strong><small>Get notified for every new upload</small></span>
                 </a>
@@ -3772,7 +3772,7 @@ series_hub_html = """
         <div class="footer-column community-section">
             <h4 class="footer-column-title">Join Our Community</h4>
             <div class="telegram-buttons-container">
-                <a href="https://t.me/+44eeWi-YTL41MTY1" target="_blank" class="telegram-button notification">
+                <a href="https://t.me/mlswtv_movies" target="_blank" class="telegram-button notification">
                     <i class="fas fa-bell"></i>
                     <span><strong>New Content Alerts</strong><small>Get notified for every new upload</small></span>
                 </a>
