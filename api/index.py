@@ -19,7 +19,7 @@ WEBSITE_NAME = os.environ.get("WEBSITE_NAME", "Mlsw Tv")
 
 # --- START: NEW TELEGRAM SETTINGS (এই অংশটি যোগ করুন) ---
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "8425569574:AAG-SrDafXs8pa16aqyWGrbMZuE58PeTyAE")
-TELEGRAM_CHANNEL_ID = os.environ.get("TELEGRAM_CHANNEL_ID", "-1003150076260") # যেমন: "@yourchannelname" বা "-100123456789"
+TELEGRAM_CHANNEL_ID = os.environ.get("TELEGRAM_CHANNEL_ID", "-1002669114451") # যেমন: "@yourchannelname" বা "-100123456789"
 HOW_TO_DOWNLOAD_URL = os.environ.get("HOW_TO_DOWNLOAD_URL", "https://t.me/mlswtv_download") # আপনার "How to Download" গাইডের লিংক
 # --- END: NEW TELEGRAM SETTINGS ---
 
